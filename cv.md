@@ -4,3 +4,7 @@
   + 89289184550
 * adress
   + new street
+* skills
+  + play tennis
+  + painting
+  + swimming
