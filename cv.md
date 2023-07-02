@@ -5,6 +5,6 @@
 * adress
   + new street
 * skills
-  + play tennis
+  + to play tennis
   + painting
   + swimming
